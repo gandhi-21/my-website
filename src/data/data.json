@@ -1,0 +1,43 @@
+{
+  "name": "Gaurav Gandhi",
+  "nick_name": "Goga",
+  "college": "Stony Brook University",
+  "degree": "Bachelor in Computer Science",
+  "year": "Junior",
+  "specialization": "Data Science",
+  "school": "Sri Venkateshwar International School",
+  "high_school_graduation": 2017,
+  "dob": "09/21/1999",
+  "current_location": "New York",
+  "hometown": "New Delhi",
+  "about_me": [
+    "I grew up and went to high school in New Delhi, India. I was part of the third graduating class from my school. After school, I moved to the US for college at the age of 17.",
+    "Growing up, I have had a lot of nicknames. I won’t get into them all but my favorite so far has been Goga (think Boba but with a 'G' instead of 'B’). I was once in a newspaper for winning a BeyBlade Competition at the age of 10 and it has pretty much been one of my peak times so far.",
+    "I’m a football (Soccer) Junkie and Blaugrana blood (F.C. Barcelona) runs through my veins and I’m always ready to convince someone that Lionel Messi is the Greatest Player to ever grace the sport.",
+    "My Myers-Briggs Type Indicator(MBTI) is INFP and I strive for Constant Improvement. A few people I like with same personality type are J.R.R. Tolkien, Frodo Baggins and Kermit."
+  ],
+  "work_experience": {
+    "Undergraduate_Teaching_Assistant": "Worked as a teaching assistant for CSE 373: Analysis of Algorithms.\nHeld office hours every week to help students with course materials and assignments along with review sessions for exams.",
+    "Student_Technician": "Troubleshooting, Upgrading and Maintaining the residential tech equipment.",
+    "Research_Assistant": "Worked under Prof. Rehmati for CNN Complexity."
+  },
+  "projects": {
+    "TodoList" : "Made a todo list in react",
+    "Scala_app": "Made the scala frontend",
+    "Swift_for_TS": "Made the swift for tensorflow pipeline for research",
+    "MNIST_app": "Made a web app trained on MNIST to predict people putting in numbers",
+    "Titanic_Disaster": "Made a web app trained on the Titanic Disaster to predict people putting in their numbers"
+  },
+  "kaggle": {
+    "Kannada_MNIST": "Here's my solution and ranking for the Kannada MNIST competition",
+    "Housing_Regression": "Here's my solution and ranking for the House Regression competition",
+    "Titanic_Disaster": "Here's my solution and ranking for the Titanic Disaster competition",
+    "Digit_Recognizer": "Here's my solution and ranking for the Digit Recognizer competition"
+  },
+  "Social": {
+    "github": "https://github.com/gandhi-21",
+    "linkedin": "https://www.linkedin.com/in/majorlygaurav/",
+    "twitter": "https://twitter.com/majorly_Gaurav",
+    "kaggle": "https://www.kaggle.com/gandhi6218"
+  }
+}
