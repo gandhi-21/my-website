@@ -13,13 +13,13 @@ import Redbull  from "./components/redbull/Redbull";
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Home />
+      {/*<Header />*/}
+      {/*<Home />*/}
       <About />
-      <Projects />
-      <Contact />
-      <Footer />
-      <Redbull />
+      {/*<Projects />*/}
+      {/*<Contact />*/}
+      {/*<Footer />*/}
+      {/*<Redbull />*/}
     </div>
   );
 }

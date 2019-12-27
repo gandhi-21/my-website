@@ -4,10 +4,13 @@
   "college": "Stony Brook University",
   "degree": "Bachelor in Computer Science",
   "year": "Junior",
+  "major": "Computer Science",
   "specialization": "Data Science",
   "school": "Sri Venkateshwar International School",
   "high_school_graduation": 2017,
+  "college_graduation": 2021,
   "dob": "09/21/1999",
+  "interests": "Algorithmic complexity of ML models",
   "current_location": "New York",
   "hometown": "New Delhi",
   "about_me": [
